@@ -112,8 +112,8 @@ p {
         z-index: 110;
     }
     .navbar-brand img {
-        padding-top: 25px;
-        height: 45px;
+        padding-top: 10px;
+        height: 30px;
         -webkit-transition: all 1s;
         -moz-transition: all 1s;
         -o-transition: all 1s;
